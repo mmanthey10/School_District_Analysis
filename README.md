@@ -12,7 +12,7 @@ The removal of Thomas High School's ninth grade data had the following effects o
 
 * District Summary:
   * Before
-  <img width="565" alt="Screen Shot 2021-08-01 at 4 18 15 PM" src="https://user-images.githubusercontent.com/86746735/127785593-54cd0c05-03ed-444e-b0fb-93fac91ae916.png">
+  <img width="833" alt="Screen Shot 2021-08-01 at 5 10 07 PM" src="https://user-images.githubusercontent.com/86746735/127786733-4eecb96b-cf2b-49f7-a422-bd45d81f00b9.png">
   
   * After
   <img width="833" alt="Screen Shot 2021-08-01 at 5 01 11 PM" src="https://user-images.githubusercontent.com/86746735/127786534-9c68e24d-e0d6-48a0-a1a7-52b18dd44ac4.png">
