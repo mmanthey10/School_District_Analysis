@@ -69,8 +69,7 @@ The removal of Thomas High School's ninth grade data had the following effects o
 
 ## Summary
 
-* The change to overall district 
-* There was a decrease is overall passing percentage for charter school (School Type of Thomas High) after the removal of the Thomas High 9th grade class.
-*
-* change three
-* change four
+1. The change to overall district 
+2. There was a decrease is overall passing percentage for charter school (School Type of Thomas High) after the removal of the Thomas High 9th grade class.
+3. Thomas High saw an significant drop off in passing grades as a result of the removal of 9th grade class scores, showing that the 9th grade scores played a significant part in Thomas High's high passing rate among all grades.
+4. change three
