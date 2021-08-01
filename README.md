@@ -30,7 +30,7 @@ The removal of Thomas High School's ninth grade data had the following effects o
   <img width="302" alt="Screen Shot 2021-08-01 at 5 24 19 PM" src="https://user-images.githubusercontent.com/86746735/127787075-c795b473-4e33-4f3d-825f-0aef044a0808.png">
   
   * After
-  
+  <img width="305" alt="Screen Shot 2021-08-01 at 5 25 31 PM" src="https://user-images.githubusercontent.com/86746735/127787097-701c7028-11b3-4d92-aee1-68e57a99d8b0.png">
   
 * Math and Reading Scores by Grade:
   * Before - Math
