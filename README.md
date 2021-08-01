@@ -27,7 +27,7 @@ The removal of Thomas High School's ninth grade data had the following effects o
 
 * Affect on Thomas High Test Scores:
   * Before
-  
+  <img width="302" alt="Screen Shot 2021-08-01 at 5 24 19 PM" src="https://user-images.githubusercontent.com/86746735/127787075-c795b473-4e33-4f3d-825f-0aef044a0808.png">
   
   * After
   
